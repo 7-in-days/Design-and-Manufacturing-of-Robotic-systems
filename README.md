@@ -8,11 +8,11 @@
 
 ## 브랜치 구성
 
-| 브랜치 | 프로젝트 | 내용 | 입력 자료 |
-|--------|----------|------|-----------|
-| [`go2-sim`](../../tree/go2-sim) | Project 1 | Unitree Go2 **시뮬레이션(Isaac Sim)** DWA 주행 | `2분반_3조.zip` |
-| [`go2-real`](../../tree/go2-real) | Project 1 | Unitree Go2 **실물(Real)** DWA 주행 | `go2_final_0612최종.zip` |
-| [`continumm`](../../tree/continumm) | Project 2 | Tendon-driven **Continuum Robot** 제어 + SMA 브레이크 | `calisavedontinuum_dobot2.zip` (최종) + `continuum_mission.zip` (legacy) |
+| 브랜치 | 프로젝트 | 내용 |
+|--------|----------|------|
+| [`go2-sim`](../../tree/go2-sim) | Project 1 | Unitree Go2 **시뮬레이션(Isaac Sim)** DWA 주행 |
+| [`go2-real`](../../tree/go2-real) | Project 1 | Unitree Go2 **실물(Real)** DWA 주행 |
+| [`continumm`](../../tree/continumm) | Project 2 | Tendon-driven **Continuum Robot** 제어 + SMA 브레이크 (+ legacy) |
 
 각 브랜치의 `README.md`에는 다음이 포함되어 있습니다.
 
