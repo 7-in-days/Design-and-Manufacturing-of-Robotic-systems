@@ -1,7 +1,7 @@
 # Project 1 — Unitree Go2 DWA 주행 (Simulation)
 
 > **Design and Manufacturing of Robotic systems — Term Project 1 Final report**
-> 2026 · 2분반 3조 · 2023112174 주재영
+> 2026 · 주재영
 >
 > 이 브랜치(`go2-sim`)는 **NVIDIA Isaac Sim 시뮬레이션** 환경용 Go2 주행 코드입니다.
 > 실물(Real) 환경 코드는 [`go2-real`](../../tree/go2-real) 브랜치를 참고하세요.
