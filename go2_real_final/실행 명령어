@@ -1,0 +1,13 @@
+본 코드 실행 명령어
+
+1. cd go2_real_final
+2. colcon build
+3. source install/setup.bash
+
+맵 1번의 경우
+
+ros2 run go2_final go2_map1
+
+맵 2번의 경우
+
+ros2 run go2_final go2_map2
