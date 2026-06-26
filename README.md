@@ -2,7 +2,6 @@
 
 2026학년도 1학기 **Design and Manufacturing of Robotic systems** 텀 프로젝트 저장소입니다.
 
-
 이 저장소는 두 개의 텀 프로젝트(4족 보행 로봇 Go2 주행, Continuum Robot 제어/SMA 브레이크)를
 주제별로 **브랜치(branch)** 로 나누어 관리합니다. `main` 브랜치는 안내용이며, 실제 코드와
 보고서는 아래 각 브랜치에 있습니다.
