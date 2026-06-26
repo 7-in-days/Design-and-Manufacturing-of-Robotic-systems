@@ -1,7 +1,7 @@
 # Project 1 — Unitree Go2 DWA 주행 (Real)
 
 > **Design and Manufacturing of Robotic systems — Term Project 1 Final report**
-> 2026 · 2분반 3조 · 2023112174 주재영
+> 2026 · 주재영
 >
 > 이 브랜치(`go2-real`)는 **실제 Go2 하드웨어(Real)** 주행 코드입니다.
 > 시뮬레이션(Isaac Sim) 코드는 [`go2-sim`](../../tree/go2-sim) 브랜치를 참고하세요.
