@@ -1,7 +1,7 @@
 # Project 2 — Tendon-driven Continuum Robot 제어 + SMA Brake
 
 > **Design and Manufacturing of Robotic systems — Term Project 2 Final report**
-> 2026 · 2분반 3조 · 2023112174 주재영
+> 2026 · 주재영
 
 이 브랜치(`continumm`)는 **Continuum Robot**의 제어 코드(최종본)와 SMA 브레이크 설계 보고서를 담고 있습니다.
 
